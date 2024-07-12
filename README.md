@@ -1,1 +1,1 @@
-# Java_chat_application
+Created a Java chat app which facilitated spontaneous messaging, authentication of the users, and coded encryption messages. Constructed system architecture along with a DFD, an ER diagram and database design with the help of Microsoft Visio. Support for up to 10 concurrent users is available, employing low latency to minimise the delay in processing the data. 500+ Lines of Code written and 85% of test cases covered.
